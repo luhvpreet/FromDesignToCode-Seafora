@@ -407,7 +407,7 @@ header {
   font-style: italic;
   font-weight: var(--fw-light);
   white-space: nowrap;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 .destinations {
   display: grid;
