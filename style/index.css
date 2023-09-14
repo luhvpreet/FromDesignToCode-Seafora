@@ -395,7 +395,7 @@ header {
   position: relative;
   margin-block: 6em;
 }
-.destinations:before {
+/* .destinations:before {
   content: "deep ocean";
   inset: 0;
   position: absolute;
@@ -409,7 +409,7 @@ header {
   font-weight: var(--fw-light);
   white-space: nowrap;
   overflow: hidden;
-}
+} */
 .destinations {
   display: grid;
   grid-template-columns: 1fr;
